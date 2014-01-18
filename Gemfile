@@ -6,6 +6,10 @@ gem 'mongoid', '4.0.0.alpha2'
 
 gem 'turbolinks'
 
+gem 'rubycas-client', github: 'Altonymous/rubycas-client'
+
+gem 'haml-rails'
+
 gem 'jquery-rails'
 
 group :assets do
